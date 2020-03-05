@@ -1,2 +1,2 @@
 print('I am hungry')
-print("Yes")
+print("NO")
